@@ -1,0 +1,1 @@
+exports.OAuth2 = require("./lib/vso-oauth2").OAuth2;
