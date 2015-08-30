@@ -1,4 +1,4 @@
-# node-oauth-2-vso [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# node-oauth-2-vso [![NPM version][npm-image]][npm-url] [![Build Status](https://travis-ci.org/klousiaj/node-oauth2-vso.svg?branch=master)](https://travis-ci.org/klousiaj/node-oauth2-vso) [![Dependency Status](https://david-dm.org/klousiaj/node-oauth2-vso.svg)](https://david-dm.org/klousiaj/node-oauth2-vso)
 > Visual Studio Online specific implementation of [node-oauth](https://github.com/ciaranj/node-oauth) module for oauth2.
 This was created to be used with a VSO passport module. Because of a number of unique requirements to interact with 
 Visual Studio Online's TFS REST API, a variety of VSO specific changes have been introduced to this module.
