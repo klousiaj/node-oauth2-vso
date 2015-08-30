@@ -1,6 +1,6 @@
 {
   "name": "node-oauth2-vso",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Visual Studio Online specific implementation of node-oauth module for oauth2.",
   "homepage": "https://github.com/klousiaj/node-oauth2-vso",
   "repository": "klousiaj/node-oauth2-vso",
@@ -10,7 +10,11 @@
     "url": "https://github.com/klousiaj"
   },
   "main": "index.js",
-  "keywords": ["oauth2","Visual Studio", "TFS"],
+  "keywords": [
+    "oauth2",
+    "Visual Studio",
+    "TFS"
+  ],
   "devDependencies": {
     "vows": "0.5.x"
   },
