@@ -9,9 +9,8 @@
     "email": "klousiajp@gmail.com",
     "url": "https://github.com/klousiaj"
   },
-  "main": "index.js",
+  "main": "./lib",
   "files": [
-    "index.js",
     "lib",
     "tests"
   ],
