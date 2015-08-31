@@ -10,6 +10,11 @@
     "url": "https://github.com/klousiaj"
   },
   "main": "index.js",
+  "files": [
+    "index.js",
+    "lib",
+    "tests"
+  ],
   "keywords": [
     "oauth2",
     "Visual Studio",
